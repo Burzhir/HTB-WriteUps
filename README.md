@@ -1,6 +1,6 @@
 # HTB Writeups
 
-A collection of Hack The Box machine writeups, PortSwigger lab solutions, and security projects. Documenting my journey as penetration tester.
+A collection of Hack The Box machine writeups, PortSwigger lab solutions, and security projects. Documenting my journey as a self-taught penetration tester.
 
 ---
 
