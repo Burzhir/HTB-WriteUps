@@ -5,10 +5,10 @@ A collection of my Hack The Box machine writeups and scripts. Documenting my jou
 ## Machines Completed
 
 | Machine | OS | Difficulty | Date |
-| :--- | :--- | :--- | :--- |
-| [Meow](machines/meow) | Linux | Very Easy |
-| Fawn | Linux | Very Easy |
-| Dancing | Windows | Very Easy |
+| :--- | :--- | :--- | :--- | 
+| [Meow](machines/meow) | Linux | Very Easy | [5-17-2026]
+| Fawn | Linux | Very Easy | [5-17-2026]
+| Dancing | Windows | Very Easy | [5-17-2026]
 
 ## About Me
 
