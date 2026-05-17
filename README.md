@@ -1,27 +1,40 @@
 # HTB Writeups
 
-A collection of my Hack The Box machine writeups and scripts. Documenting my journey from beginner to professional penetration tester.
+A collection of Hack The Box machine writeups, PortSwigger lab solutions, and security projects. Documenting my journey as penetration tester.
+
+---
 
 ## Machines Completed
 
 | Machine | OS | Difficulty | Date |
-| :--- | :--- | :--- | :--- | 
-| [Meow](machines/meow) | Linux | Very Easy | [5-17-2026]
-| [Dancing](machines/Dancing) | Windows | Very Easy | [5-17-2026]
+| :--- | :--- | :--- | :--- |
+| [Meow](machines/meow) | Linux | Very Easy | 17 May 2026 |
+| [Fawn](machines/fawn) | Linux | Very Easy | 17 May 2026 |
+| [Dancing](machines/dancing) | Windows | Very Easy | 17 May 2026 |
 
-## About Me
+## Web Exploitation Labs (PortSwigger)
 
-Self-taught cybersecurity enthusiast building practical skills through hands-on labs and certifications. Currently working through HTB Academy and PortSwigger Web Security Academy.
+| Lab | Category | Date |
+| :--- | :--- | :--- |
+| SQL Injection UNION Attack | SQL Injection | 16 May 2026 |
+
+## Projects
+
+- **[Flask Login Lab](https://github.com/Burzhir/flask-login-lab)** — Built a deliberately vulnerable login page with SQLite, exploited SQL injection, and patched it with parameterized queries.
 
 ## Certifications (In Progress)
 
 - ISC2 Certified in Cybersecurity (CC) — Enrolled
-- PortSwigger Web Security Academy — SQL Injection Labs Completed
-  
-## Projects
+- eJPT (Junior Penetration Tester) — Targeting 2026
 
-- [Flask Login Lab](https://github.com/Burzhir/flask-login-lab) — Built a deliberately vulnerable login page with SQLite, then exploited and patched SQL injection.
+## Skills
 
-**Currently Learning:** Active Directory, Privilege Escalation, Burp Suite
+**Offensive:** SQL Injection, Web Application Testing, Network Enumeration
+**Tools:** Burp Suite, nmap, smbclient, telnet, ftp, Git
+**Languages:** Python, Bash, SQL
+**Platforms:** Linux (Kali), Windows, WSL
 
-**Contact:** 
+---
+
+*Currently learning: Active Directory attacks, privilege escalation techniques, and advanced Burp Suite workflows.*
+
