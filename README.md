@@ -14,7 +14,14 @@ A collection of my Hack The Box machine writeups and scripts. Documenting my jou
 
 Self-taught cybersecurity enthusiast building practical skills through hands-on labs and certifications. Currently working through HTB Academy and PortSwigger Web Security Academy.
 
-**Skills:** Python, Linux, Web Application Security, SQL Injection, Networking
+## Certifications (In Progress)
+
+- ISC2 Certified in Cybersecurity (CC) — Enrolled
+- PortSwigger Web Security Academy — SQL Injection Labs Completed
+  
+## Projects
+
+- [Flask Login Lab](https://github.com/Burzhir/flask-login-lab) — Built a deliberately vulnerable login page with SQLite, then exploited and patched SQL injection.
 
 **Currently Learning:** Active Directory, Privilege Escalation, Burp Suite
 
