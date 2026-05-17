@@ -17,6 +17,7 @@ A collection of Hack The Box machine writeups, PortSwigger lab solutions, and se
 | Lab | Category | Date |
 | :--- | :--- | :--- |
 | SQL Injection UNION Attack | SQL Injection | 16 May 2026 |
+| SQL Injection Blind Attack | SQL Injection | 16 May 2026 |
 
 ## Projects
 
