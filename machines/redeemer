@@ -1,4 +1,0 @@
-#Redeemer completed.
-
-Had to scan more then the default 1000 tcp ports so used -p- flag along
-with --min-rate 5000 along with the usual -sV nmap flag 
