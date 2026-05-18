@@ -21,7 +21,7 @@ A collection of Hack The Box machine writeups, PortSwigger lab solutions, and se
 
 ## Projects
 
-- **[Flask Login Lab](https://github.com/Burzhir/flask-login-lab)** — Built a deliberately vulnerable login page with SQLite, exploited SQL injection, and patched it with parameterized queries.
+- **[Flask Login Lab](https://github.com/Burzhir/flask-login-lab)** — Built a deliberately vulnerable login page with SQLite, exploited SQL injection, and patched it with parameterized queries(Both secure and vulnerable verison of the app there).
 
 ## Certifications (In Progress)
 
