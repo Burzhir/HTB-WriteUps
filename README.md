@@ -10,7 +10,7 @@ A collection of Hack The Box machine writeups, PortSwigger lab solutions, and se
 | :--- | :--- | :--- | :--- |
 | [Meow](machines/meow) | Linux | Very Easy | 17 May 2026 |
 | [Fawn](machines/fawn) | Linux | Very Easy | 17 May 2026 |
-| [Dancing](machines/Dancing) | Windows | Very Easy | 17 May 2026 |
+| [Dancing](machines/dancing) | Windows | Very Easy | 17 May 2026 |
 
 ## Web Exploitation Labs (PortSwigger)
 
