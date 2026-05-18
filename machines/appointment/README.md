@@ -1,0 +1,1 @@
+I used nmap on port 80 and then i used Gobuster tool to find the hidden directories with -dir flag, got the result and then injected SQLi through curl. This one got me thinkin kinda hard especially with so many errors from server side.
