@@ -1,1 +1,2 @@
 #Crocodile completed
+Used nmmap -sV -sC -T4 -A <ip>, got all the required info, connected tot he open ftp port with ftp <ip> -p 21, used anonymous or username, a default input, got the files with 'get', then used gobuster dir -u <ip> -w (wordlist)-x(filetype) php, we know this info from scan, saw the login.php and then went to the ip through browser and used common default and SQLi to brute force and gained the flag.
