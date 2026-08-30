@@ -16,6 +16,7 @@ A collection of Hack The Box machine writeups, PortSwigger lab solutions, and se
 | [Sequel](machines/sequel) | Linux | Very Easy | 20 May 2026 |
 | [Crocodile](machines/crocodile) | Linux | Very Easy | 21 May 2026 |
 | [Responder](machines/responder) | Windows | Very Easy | 23 May 2026 |
+| [Three](machines/three) | Linux | Very Easy | 30 Aug 2026 |
 
 ## Web Exploitation Labs (PortSwigger)
 
